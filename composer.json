@@ -1,0 +1,9 @@
+{
+  "name": "jeyroik/df-test-service",
+  "description": "DF test service",
+  "autoload": {
+    "psr-4": {
+      "jeyroik\\": "src/"
+    }
+  }
+}
