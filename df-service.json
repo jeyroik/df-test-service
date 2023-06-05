@@ -1,4 +1,5 @@
 {
+  "package": "jeyroik/df-test-service",
   "name": "test-service",
   "title": "Nothing",
   "description": "Nothing service with nothing event and action",
@@ -71,6 +72,5 @@
     "contacts": {
       "email": "jeyroik@gmail.com"
     }
-  },
-  "package": ""
+  }
 }
