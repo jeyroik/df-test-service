@@ -6,6 +6,7 @@
   "type": "public",
   "avatar": "https://img.funcraft.ru/edu.png",
   "options": {
+    "resolver": "jeyroik\\components\\resolvers\\NothingService",
     "login": {
       "type": "string",
       "name": "login",
@@ -25,6 +26,14 @@
       "required": true,
       "encode": false,
       "hashing": true
+    },
+    "instructions": {
+      "events": {
+        "nothing_event": "Set any value for the Useless parameter."
+      },
+      "operations": {
+        "nothing_op": "Set any value for the Useless parameter"
+      }
     }
   },
   "events": {
