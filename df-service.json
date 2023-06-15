@@ -1,6 +1,6 @@
 {
   "package": "jeyroik/df-test-service:0.*",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "test-service",
   "title": "Nothing",
   "description": "Nothing service with nothing event and action",
@@ -20,9 +20,9 @@
     },
     "password": {
       "type": "string",
-      "name": "passord",
+      "name": "password",
       "title": "Password",
-      "description": "Passord",
+      "description": "Password",
       "default": "nothing",
       "required": true,
       "encode": false,
